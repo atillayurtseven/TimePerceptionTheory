@@ -22,5 +22,6 @@ The Theory of Age-Dependent Time Perception Change offers a mathematical foundat
 
 This study serves as a stepping stone for researchers interested in comprehending age-related shifts in time perception. Future research endeavors may provide additional clarity to the theory and offer a broader perspective on the impact of age on time perception.
 
-Thank you,
+Thank you
+-
 Atilla Yurtseven
