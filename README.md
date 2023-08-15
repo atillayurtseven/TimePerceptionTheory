@@ -1,4 +1,4 @@
-# Theory of Age-Dependent Time Perception Change
+# Age-Dependent Time Perception Change Theory by Atilla Yurtseven
 
 We often hear from the elderly, "Time is passing by so quickly." Have you ever wondered why? Could it be related to age? Inspired by these musings, I have developed this theory to delve into the underlying factors of this phenomenon. This study addresses the acceleration of time perception with age and seeks to establish a dual foundation - both mathematical and psychological - to comprehend this transformation.
 
